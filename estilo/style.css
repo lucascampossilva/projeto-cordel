@@ -38,14 +38,13 @@ header p {
 }
 
 a {
-    color: rgb(236, 10, 10);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
     text-decoration: underline;
-    font-weight: bold;
 }
 
 section.normal {
