@@ -38,12 +38,14 @@ header p {
 }
 
 a {
-    color: white;
+    color: rgb(236, 10, 10);
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {
     text-decoration: underline;
+    font-weight: bold;
 }
 
 section.normal {
@@ -83,13 +85,10 @@ section.imagem >p {
 
 section#img01 {
     background-image: url('..//imagens/background001.jpg');
-    
-    
 }
 
 section#img02 {
     background-image: url('..//imagens/background002.jpg');
-    
 }
 
 
